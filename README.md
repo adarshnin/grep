@@ -10,3 +10,5 @@ I have used array of Structures for storing patterns and their indices for -f an
 Test Files contains some files and directories on which the commands were tested.
 
 test.txt contains a summary of commands which were tested. User can test any other combination of the above options on it.
+
+dep.c contains the function definitions which are used in grep.c.
