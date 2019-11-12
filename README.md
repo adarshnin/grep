@@ -13,4 +13,4 @@ test.txt contains a summary of commands which were tested. User can test any oth
 
 dep.c contains the function definitions which are used in grep.c.
 
-./run is the executable file
+./run is the executable file.
