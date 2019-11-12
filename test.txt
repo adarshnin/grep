@@ -1,0 +1,19 @@
+Summary of Tested Commands
+
+./run it bigtext.txt z.txt 
+./run -ivm 5 yes bigtext.txt x.txt
+./run -cvw is bigtext.txt 
+./run -iw up bigtext.txt x.txt 
+./run -Hrwvbm 1 up .
+./run -br it .
+./run -hvHwb is bigtext.txt 
+./run -m 7 -wvHf x.txt bigtext.txt 
+./run -chr it .
+./run -wbrhHm 4 is .
+./run -m 6 -f x.txt -f z.txt bigtext.txt z.txt
+./run -wf x.txt -wf z.txt bigtext.txt 
+./run -rf x.txt -Hf z.txt .
+./run -re hi .
+./run -irwe in bigtext.txt
+./run -we in -ie up -e it bigtext.txt x.txt 
+./run -f x.txt -f z.txt -iwe is -we by -e ye -e to bigtext.txt
