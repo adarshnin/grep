@@ -1,7 +1,7 @@
 # grep
 grep command in C
 
-I have implemented 12 options (-i, -c, -v, -h, -H, -w, -b, -m, -q, -r, -f, -e) of the grep command in my project.
+I have implemented 12 options (-i, -c, -v, -h, -H, -w, -b, -m, -q, -r, -f, -e) of the grep command as my DSA project.
 
 I have also implemented the combinations of the above options.
 
