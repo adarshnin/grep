@@ -1,5 +1,5 @@
 # grep
-grep command
+grep command in C
 
 I have implemented 12 options (-i, -c, -v, -h, -H, -w, -b, -m, -q, -r, -f, -e) of the grep command in my project.
 
