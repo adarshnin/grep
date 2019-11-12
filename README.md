@@ -7,6 +7,6 @@ I have also implemented the combinations of the above options.
 
 I have used array of Structures for storing patterns and their indices for -f and -e option.
 
-Test files contains some files and directories on which the commands were tested.
+Test Files contains some files and directories on which the commands were tested.
 
 test.txt contains a summary of commands which were tested. User can test any other combination of the above options on it.
